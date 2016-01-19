@@ -2,7 +2,7 @@
 //  enotation.c
 //  calculator2
 //
-//  Created by 潘宇忻 on 15-9-12.
+//  Created by Yuxin Pan on 15-9-12.
 //  Copyright (c) 2015年 Yuxin Pan. All rights reserved.
 //
 #include <stdio.h>
