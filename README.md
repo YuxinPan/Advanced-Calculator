@@ -4,15 +4,7 @@
 2. The program will display a simple prompt waiting for user input.
 >>>
 
-3. The following help message will be displayed whenever the user types the letter h at
-the input prompt.
-
-Simple Calculator understands the following arithmetic operations:
-^ exponentiation
-+ addition
-- subtraction
-* multiplication
-/ division
+3. Help message will be displayed whenever the user types the letter h at the input prompt.
 
 4. The program will exit if the user types the letter q at the input prompt.
 
@@ -30,9 +22,9 @@ Simple Calculator understands the following arithmetic operations:
 
 11. The program will validate user input and recover from illegal input including:
 
-• Specifying two operators in a row (you must differentiate between the subtraction operator and the negative sign).
-• Entering invalid letters.
-• Entering a floating point number with more than one decimal point.
-• Finishing the input with an operator rather than an operand.
+\• Specifying two operators in a row .
+\• Entering invalid letters.
+\• Entering a floating point number with more than one decimal point.
+\• Finishing the input with an operator rather than an operand.
 
 12. The program is able to parse parentheses in the input string,it also accepts floating point numbers in scientific e notation - e.g. 1.23e4.
