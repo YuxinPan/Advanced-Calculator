@@ -27,4 +27,4 @@
     Entering a floating point number with more than one decimal point.
     Finishing the input with an operator rather than an operand.
 
-12. The program is able to parse parentheses in the input string,it also accepts floating point numbers in scientific e notation - e.g. 1.23e4.
+12. The program is able to parse parentheses in the input string, it also accepts floating point numbers in scientific e notation - e.g. 1.23e4.
