@@ -28,7 +28,7 @@ int main(void)
     char *symbl3 = "1234567890";
 
     
-    printf("Simple Calculator\n");
+    printf("Advanced Calculator\n");
     while(1)
     {
         double result1=0.000000;
