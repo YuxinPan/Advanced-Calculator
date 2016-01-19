@@ -2,7 +2,7 @@
 //  main.c
 //  calculator
 //
-//  Created by 潘宇忻 on 15-8-27.
+//  Created by Yuxin Pan on 15-8-27.
 //  Copyright (c) 2015年 Yuxin Pan. All rights reserved.
 //
 
