@@ -3,7 +3,7 @@
 //  calculator
 //
 //  Created by Yuxin Pan on 15-8-27.
-//  Copyright (c) 2015 Yuxin Pan. All rights reserved.
+//  2015 Yuxin Pan.
 //
 
 

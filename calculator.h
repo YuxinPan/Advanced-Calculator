@@ -3,8 +3,9 @@
 //  calculator2
 //
 //  Created by Yuxin Pan on 15-8-27.
-//  Copyright (c) 2015 Yuxin Pan. All rights reserved.
+//  2015 Yuxin Pan.
 //
+
  /* 
 #ifndef __calculator2__calculator__
 #define __calculator2__calculator__

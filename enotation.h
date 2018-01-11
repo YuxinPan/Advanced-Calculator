@@ -3,7 +3,7 @@
 //  calculator2
 //
 //  Created by Yuxin Pan on 15-9-12.
-//  Copyright (c) 2015年 Yuxin Pan. All rights reserved.
+//  2015 Yuxin Pan. 
 //
 
 #ifndef __calculator2__enotation__
