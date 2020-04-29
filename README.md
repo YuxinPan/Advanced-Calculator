@@ -1,5 +1,5 @@
-# Advanced-Calculator
-1. It's an advanced calculator run in C.
+# Simple-Calculator
+1. It's a simple calculator for a first year programming course.
 
 2. The program will display a simple prompt waiting for user input.
 >>>
